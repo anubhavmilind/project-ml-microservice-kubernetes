@@ -22,3 +22,8 @@ Forwarding from [::1]:8080 -> 80
 Handling connection for 8080
 Handling connection for 8080
 Handling connection for 8080
+
+
+voclabs:~/environment/project-ml-microservice-kubernetes (main) $ kubectl get pods
+NAME         READY   STATUS    RESTARTS   AGE
+udacitypr4   1/1     Running   0          2m34s
